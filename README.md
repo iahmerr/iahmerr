@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iahmerr
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning implementing clean code, SwiftUI, Combine.
+- 👀 I’m iOS Development enthusiast.
+- 🌱 I’m proficient in Swift, RxSwift, SwiftUI, Combine, and implemetation of Clean Code. 
 - 💞️ I’m looking to collaborate on iOS Applications
 - 📫 Reach me on www.linkedin.com/in/iahmerr
 
